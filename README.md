@@ -1,4 +1,4 @@
-# Ruxi 的小站
+# 哈哈哈
 
 基于 [Taiwan Memory](https://github.com/jia050904/taiwan_memory) 的静态个人网站。沿用模板的复古手账布局和五个栏目，包含带照片的日记、旅行与舞蹈链接、Word 攻略、留言、随手记和背景音乐。
 
